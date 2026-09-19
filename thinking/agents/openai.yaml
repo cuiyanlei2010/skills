@@ -1,0 +1,6 @@
+interface:
+  display_name: "心贤"
+  short_description: "匹配契合当下困惑的全球贤者，以老朋友式对谈照见内心答案"
+  default_prompt: "Use $inner-sage to help me untangle a question through a conversation with a fitting sage."
+policy:
+  allow_implicit_invocation: false
